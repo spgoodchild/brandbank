@@ -21,27 +21,7 @@
             "GB",
             "IE"
         ],
-        "brandbankCode": "4771477",
-        "updateType": null,
-        "eu1169Compliance": "Unspecified",
-        "defaultLanguage": "en-GB",
-        "categories": [
-            {
-                "level": 1,
-                "code": "03",
-                "description": "Meat & Fish"
-            },
-            {
-                "level": 2,
-                "code": "14",
-                "description": "Chicken & Turkey"
-            },
-            {
-                "level": 3,
-                "code": "02",
-                "description": "Fresh Chicken Portions"
-            }
-        ]
+        "brandbankCode": "4771477"
     },
     {
         "description": "Shazans Diced Chicken Breast 900g",
@@ -55,27 +35,7 @@
             "GB",
             "IE"
         ],
-        "brandbankCode": "4771477",
-        "updateType": null,
-        "eu1169Compliance": "Unspecified",
-        "defaultLanguage": "en-GB",
-        "categories": [
-            {
-                "level": 1,
-                "code": "03",
-                "description": "Meat & Fish"
-            },
-            {
-                "level": 2,
-                "code": "14",
-                "description": "Chicken & Turkey"
-            },
-            {
-                "level": 3,
-                "code": "02",
-                "description": "Fresh Chicken Portions"
-            }
-        ]
+        "brandbankCode": "4771477"
     }
 ]
 }
