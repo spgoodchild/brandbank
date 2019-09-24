@@ -7,5 +7,670 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "records": [
+    {
+        "description": "Shazans Diced Chicken Breast 450g",
+        "gtin": "5016901002734",
+        "subscriber": {
+            "id": 64558,
+            "code": "ASTO016"
+        },
+        "versionDateTime": "2017-08-30T08:46:16Z",
+        "targetMarkets": [
+            "GB",
+            "IE"
+        ],
+        "brandbankCode": "4771477",
+        "updateType": null,
+        "eu1169Compliance": "Unspecified",
+        "defaultLanguage": "en-GB",
+        "categories": [
+            {
+                "level": 1,
+                "code": "03",
+                "description": "Meat & Fish"
+            },
+            {
+                "level": 2,
+                "code": "14",
+                "description": "Chicken & Turkey"
+            },
+            {
+                "level": 3,
+                "code": "02",
+                "description": "Fresh Chicken Portions"
+            }
+        ],
+        "images": [
+            {
+                "shotTypeId": 1,
+                "shotType": "ID Shot",
+                "mimeType": "image/jpeg",
+                "thumbprint": "meVPtZrUEf55GfRCvZYwmA==",
+                "url": {
+                    "href": "http://productimages.brandbank.com/snapshotimagehandler.ashx?id=0046564e-b6b0-8e35-acd2-2801045948c1",
+                    "expiryDateTime": null
+                },
+                "measurementUnit": "px",
+                "width": 900,
+                "height": 900
+            }
+        ],
+        "objects": [
+            {
+                "id": 762151,
+                "documentTypeId": 22,
+                "documentType": "Data Asset",
+                "mimeType": "application/pdf",
+                "sizeInBytes": "876998",
+                "fileName": "\\\\bbnas1.ilabel.local\\objectstore\\vli\\E2\\3B\\E23BC533-EBB6-4847-BEBD-13CC4B3CEE72.pdf"
+            }
+        ],
+        "assets": [],
+        "languages": [
+            {
+                "language": "English (British)",
+                "code": "en-GB",
+                "description": "Shazans Diced Chicken Breast 450g",
+                "groupingSets": [
+                    {
+                        "name": "All Attributes",
+                        "attributes": {
+                            "lifestyle": [
+                                {
+                                    "nameId": 65,
+                                    "nameValue": "Halal"
+                                }
+                            ],
+                            "otherInformation": "Fresh Class A\n\nPackaged in a protective atmosphere.",
+                            "cookingGuidelines": [
+                                {
+                                    "nameId": 145,
+                                    "nameValue": "Oven cook",
+                                    "lookupId": 10773,
+                                    "lookupValue": "From Chilled",
+                                    "text": "25-30 minutes. 180°C/Fan 170°C/Gas mark 4.\nRemove all packaging.\nPlace on a baking tray and pour 1 table spoon of water over diced chicken breast.\nCover with foil and cook in the centre of a preheated oven at 180°C (Fan 170°C) for 30-35 minutes. Remove foil approximately 10 minutes before end of the cooking time.\nCooking Precautions:\nAll appliances vary, these are guidelines only.\nCheck food is piping hot throughout before serving.\nPoultry is cooked if the juices run clear when the deepest part of the flesh is pierced with a thin skewer.\nIf they are pink, continue cooking for a few minutes and retest.\nNot suitable for microwave cooking.\nNot suitable for cooking from frozen."
+                                }
+                            ],
+                            "storageAndUsageStatements": [
+                                {
+                                    "nameId": 174,
+                                    "nameValue": "Suitable for Home Freezing"
+                                },
+                                {
+                                    "nameId": 175,
+                                    "nameValue": "Cannot be Microwaved"
+                                },
+                                {
+                                    "nameId": 176,
+                                    "nameValue": "Cannot be cooked from Frozen"
+                                },
+                                {
+                                    "nameId": 205,
+                                    "nameValue": "Keep Refrigerated"
+                                }
+                            ],
+                            "recyclingInfo": [
+                                {
+                                    "nameId": 199,
+                                    "nameValue": "Film",
+                                    "lookupId": 35176,
+                                    "lookupValue": "Mixed Material - Not Currently Recycled"
+                                },
+                                {
+                                    "nameId": 200,
+                                    "nameValue": "Tray",
+                                    "lookupId": 35168,
+                                    "lookupValue": "Plastic - Widely Recycled"
+                                }
+                            ],
+                            "manufacturersAddress": "Produced for:\nShazan Foods Ltd.,\nPO Box 176,\nPreston,\nLancashire,\nEngland,\nPR1 1GQ.",
+                            "dimension": [
+                                {
+                                    "nameId": 183,
+                                    "nameValue": "Shelf Height",
+                                    "text": "170"
+                                },
+                                {
+                                    "nameId": 184,
+                                    "nameValue": "Shelf Width",
+                                    "text": "221"
+                                },
+                                {
+                                    "nameId": 185,
+                                    "nameValue": "Shelf Depth",
+                                    "text": "40"
+                                }
+                            ],
+                            "preparationAndUsage": "Defrosting:\nDefrost thoroughly for a minimum of 12 hours in the refrigerator.\nEnsure product is completely defrosted before cooking.\nFollow the preparation guidelines.\n\nOther Information:\nNo need to wash Poultry before cooking.\nAlways wash hands, surfaces and utensils thoroughly after contact with raw meat.\nUpon opening a faint smell is released from the pack. This is normal and will disappear when the meat is exposed to the air.",
+                            "storage": "Keep refrigerated between -2°C and +4°C.\nOnce opened use immediately.\nDo not exceed the use by date.\nSuitable for freezing.\nFreezing Guidelines:\nFreeze on day of purchase and use within 1 month.\nImportant: If the food has thawed, do not refreeze.",
+                            "furtherDescription": "For more information on our products, please visit our website www.shazans.com.",
+                            "country": [
+                                {
+                                    "nameId": 195,
+                                    "nameValue": "Country of Origin",
+                                    "lookupId": 251,
+                                    "lookupValue": "United Kingdom",
+                                    "lookupCode": "GB"
+                                }
+                            ],
+                            "brand": [
+                                "Shazans"
+                            ],
+                            "returnTo": "Shazan Foods Ltd.,\nPO Box 176,\nPreston,\nLancashire,\nEngland,\nPR1 1GQ.\nTelephone: 01772 627701\nEmail: info@shazans.com",
+                            "storageType": [
+                                {
+                                    "nameId": 190,
+                                    "nameValue": "Type",
+                                    "lookupId": 272,
+                                    "lookupValue": "Chilled"
+                                }
+                            ],
+                            "storageConditions": [
+                                {
+                                    "nameId": 191,
+                                    "nameValue": "Min Temp °C",
+                                    "text": "-2"
+                                },
+                                {
+                                    "nameId": 192,
+                                    "nameValue": "Max Temp °C",
+                                    "text": "4"
+                                }
+                            ],
+                            "packType": [
+                                {
+                                    "nameId": 197,
+                                    "nameValue": "Type",
+                                    "lookupId": 323,
+                                    "lookupValue": "Sleeve"
+                                }
+                            ],
+                            "features": [
+                                "Halal"
+                            ],
+                            "standardisedBrand": [
+                                {
+                                    "nameId": 224,
+                                    "nameValue": "Brand",
+                                    "lookupId": 5158,
+                                    "lookupValue": "Shazans"
+                                }
+                            ],
+                            "weight": [
+                                {
+                                    "nameId": 227,
+                                    "nameValue": "Gross Weight",
+                                    "text": "480"
+                                }
+                            ],
+                            "safetyWarning": "Cautions:\nAlthough every care has been taken to remove bones some may remain.\nThis product contains raw meat.",
+                            "numericSize": [
+                                {
+                                    "nameId": 926,
+                                    "nameValue": "Numeric Size",
+                                    "text": "450"
+                                }
+                            ],
+                            "unitSpecific": [
+                                {
+                                    "nameId": 927,
+                                    "nameValue": "Unit (specific)",
+                                    "lookupId": 12570,
+                                    "lookupValue": "Grams",
+                                    "lookupCode": "g"
+                                }
+                            ],
+                            "packSize": [
+                                "450"
+                            ],
+                            "unitFreeText": [
+                                "g"
+                            ],
+                            "averageMeasure": [
+                                {
+                                    "nameId": 928,
+                                    "nameValue": "Average Measure (e)"
+                                }
+                            ],
+                            "languagesOnPack": [
+                                {
+                                    "nameId": 1001,
+                                    "nameValue": "English"
+                                }
+                            ],
+                            "ingredients": [
+                                "Chicken (100%)"
+                            ],
+                            "nutrition": {
+                                "columnHeaders": [
+                                    "Raw as sold 100g contains",
+                                    "An ovencooked serving (100g) contains",
+                                    "%RI*",
+                                    "RI* for an average adult"
+                                ],
+                                "rowData": [
+                                    {
+                                        "nutrient": "Energy ",
+                                        "values": [
+                                            "489kJ",
+                                            "579kJ",
+                                            "7%",
+                                            "8400kJ"
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "",
+                                        "values": [
+                                            "116kcal",
+                                            "136kcal",
+                                            "",
+                                            "2000kcal"
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "Fat ",
+                                        "values": [
+                                            "3.2g",
+                                            "1.6g",
+                                            "2%",
+                                            "70g"
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "of which saturates ",
+                                        "values": [
+                                            "1.1g",
+                                            "0.4g",
+                                            "2%",
+                                            "20g"
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "Carbohydrate ",
+                                        "values": [
+                                            "<0.5g",
+                                            "<0.5g",
+                                            "",
+                                            "260g"
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "of which sugars ",
+                                        "values": [
+                                            "<0.5g",
+                                            "<0.5g",
+                                            "<1%",
+                                            "90g"
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "Fibre ",
+                                        "values": [
+                                            "<0.5g",
+                                            "<0.5g",
+                                            "",
+                                            "50g"
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "Protein ",
+                                        "values": [
+                                            "21.8g",
+                                            "30.5g",
+                                            "",
+                                            ""
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "Salt ",
+                                        "values": [
+                                            "0.3g",
+                                            "0.2g",
+                                            "3%",
+                                            "6g"
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "This pack contains approx. 3 servings",
+                                        "values": [
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    },
+                                    {
+                                        "nutrient": "*Reference intake of an average adult (8400kJ/2000kcal)",
+                                        "values": [
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    }
+                                ]
+                            },
+                            "calculatedNutrition": {
+                                "headers": {
+                                    "per100": "per 100g",
+                                    "per100Used": "",
+                                    "perServing": "An ovencooked serving (100g) contains"
+                                },
+                                "rowData": [
+                                    {
+                                        "nameId": 1182,
+                                        "nameValue": "Energy (kJ)",
+                                        "per100": {
+                                            "value": "489.00000"
+                                        },
+                                        "perServing": {
+                                            "value": "579.00000"
+                                        }
+                                    },
+                                    {
+                                        "nameId": 1183,
+                                        "nameValue": "Energy (kcal)",
+                                        "per100": {
+                                            "value": "116.00000"
+                                        },
+                                        "perServing": {
+                                            "value": "136.00000"
+                                        }
+                                    },
+                                    {
+                                        "nameId": 1189,
+                                        "nameValue": "Fat (g)",
+                                        "per100": {
+                                            "value": "3.20000"
+                                        },
+                                        "perServing": {
+                                            "value": "1.60000"
+                                        }
+                                    },
+                                    {
+                                        "nameId": 1190,
+                                        "nameValue": " of which saturates (g)",
+                                        "per100": {
+                                            "value": "1.10000"
+                                        },
+                                        "perServing": {
+                                            "value": "0.40000"
+                                        }
+                                    },
+                                    {
+                                        "nameId": 1185,
+                                        "nameValue": "Carbohydrate (g)",
+                                        "per100": {
+                                            "qualifierId": 3,
+                                            "qualifierValue": "<",
+                                            "value": "0.50000"
+                                        },
+                                        "perServing": {
+                                            "qualifierId": 3,
+                                            "qualifierValue": "<",
+                                            "value": "0.50000"
+                                        }
+                                    },
+                                    {
+                                        "nameId": 1186,
+                                        "nameValue": " of which sugars (g)",
+                                        "per100": {
+                                            "qualifierId": 3,
+                                            "qualifierValue": "<",
+                                            "value": "0.50000"
+                                        },
+                                        "perServing": {
+                                            "qualifierId": 3,
+                                            "qualifierValue": "<",
+                                            "value": "0.50000"
+                                        }
+                                    },
+                                    {
+                                        "nameId": 1194,
+                                        "nameValue": "Fibre (g)",
+                                        "per100": {
+                                            "qualifierId": 3,
+                                            "qualifierValue": "<",
+                                            "value": "0.50000"
+                                        },
+                                        "perServing": {
+                                            "qualifierId": 3,
+                                            "qualifierValue": "<",
+                                            "value": "0.50000"
+                                        }
+                                    },
+                                    {
+                                        "nameId": 1184,
+                                        "nameValue": "Protein (g)",
+                                        "per100": {
+                                            "value": "21.80000"
+                                        },
+                                        "perServing": {
+                                            "value": "30.50000"
+                                        }
+                                    },
+                                    {
+                                        "nameId": 1214,
+                                        "nameValue": "Salt (g)",
+                                        "per100": {
+                                            "value": "0.30000"
+                                        },
+                                        "perServing": {
+                                            "value": "0.20000"
+                                        }
+                                    }
+                                ]
+                            },
+                            "unitMerchandising": [
+                                {
+                                    "nameId": 1778,
+                                    "nameValue": "Height",
+                                    "text": "40"
+                                },
+                                {
+                                    "nameId": 1779,
+                                    "nameValue": "Width",
+                                    "text": "221"
+                                },
+                                {
+                                    "nameId": 1780,
+                                    "nameValue": "Depth",
+                                    "text": "170"
+                                },
+                                {
+                                    "nameId": 1782,
+                                    "nameValue": "Unit Stackable",
+                                    "text": "No"
+                                },
+                                {
+                                    "nameId": 1781,
+                                    "nameValue": "Unit Stable",
+                                    "text": "Yes"
+                                },
+                                {
+                                    "nameId": 1783,
+                                    "nameValue": "Merchandise Multiple Ways",
+                                    "text": "Yes"
+                                }
+                            ],
+                            "newProductDevelopment": [
+                                {
+                                    "nameId": 1818,
+                                    "nameValue": "New Product Development",
+                                    "lookupId": 27719,
+                                    "lookupValue": "Final Product - Not NPD"
+                                }
+                            ],
+                            "origin": [
+                                {
+                                    "nameId": 2016,
+                                    "nameValue": "Origin Free Text",
+                                    "text": "Produced in the UK"
+                                }
+                            ],
+                            "recyclingOtherText": [
+                                "Please check with your local council for further recycling information"
+                            ],
+                            "telephoneHelpline": [
+                                "01772 627701"
+                            ],
+                            "emailHelpline": [
+                                "info@shazans.com"
+                            ],
+                            "regulatedProductName": "Fresh Class A Diced Chicken Breast Fillets",
+                            "calculatedNutritionOrdering": [
+                                {
+                                    "nameId": 1882,
+                                    "nameValue": "Scheme",
+                                    "lookupId": 35181,
+                                    "lookupValue": "Regulation (EU) No 1169/2011"
+                                }
+                            ],
+                            "taggableIngredients": [
+                                {
+                                    "text": [
+                                        "Chicken (100%)"
+                                    ]
+                                }
+                            ],
+                            "frontOfPackNutrition": {
+                                "references": [
+                                    {
+                                        "nameId": 4,
+                                        "nameValue": "Per Portion",
+                                        "headers": [
+                                            "An ovencooked serving (100g) contains:"
+                                        ],
+                                        "footers": [
+                                            "of the reference intake*",
+                                            "Typical values per 100g raw as sold: Energy 489kJ/116kcal",
+                                            "*Reference inake of an average adult (8400kJ/2000kcal)"
+                                        ],
+                                        "nutrients": [
+                                            {
+                                                "id": 1906,
+                                                "value": "Energy",
+                                                "quantities": [
+                                                    {
+                                                        "unitId": 2,
+                                                        "unitValue": "kJ",
+                                                        "value": "579"
+                                                    },
+                                                    {
+                                                        "unitId": 3,
+                                                        "unitValue": "kcal",
+                                                        "value": "136"
+                                                    }
+                                                ],
+                                                "percentage": {
+                                                    "value": "7.00"
+                                                }
+                                            },
+                                            {
+                                                "id": 1907,
+                                                "value": "Fat",
+                                                "ratingId": 1,
+                                                "ratingValue": "Low",
+                                                "quantities": [
+                                                    {
+                                                        "unitId": 1,
+                                                        "unitValue": "g",
+                                                        "value": "1.6"
+                                                    }
+                                                ],
+                                                "percentage": {
+                                                    "value": "2.00"
+                                                }
+                                            },
+                                            {
+                                                "id": 1908,
+                                                "value": "Saturates",
+                                                "ratingId": 1,
+                                                "ratingValue": "Low",
+                                                "quantities": [
+                                                    {
+                                                        "unitId": 1,
+                                                        "unitValue": "g",
+                                                        "value": "0.4"
+                                                    }
+                                                ],
+                                                "percentage": {
+                                                    "value": "2.00"
+                                                }
+                                            },
+                                            {
+                                                "id": 1909,
+                                                "value": "Sugars",
+                                                "ratingId": 1,
+                                                "ratingValue": "Low",
+                                                "quantities": [
+                                                    {
+                                                        "unitId": 1,
+                                                        "unitValue": "g",
+                                                        "value": "<0.5"
+                                                    }
+                                                ],
+                                                "percentage": {
+                                                    "qualifierId": 1,
+                                                    "qualifierValue": "<",
+                                                    "value": "1.00"
+                                                }
+                                            },
+                                            {
+                                                "id": 1910,
+                                                "value": "Salt",
+                                                "ratingId": 1,
+                                                "ratingValue": "Low",
+                                                "quantities": [
+                                                    {
+                                                        "unitId": 1,
+                                                        "unitValue": "g",
+                                                        "value": "0.2"
+                                                    }
+                                                ],
+                                                "percentage": {
+                                                    "value": "3.00"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "descriptionBreakdown": [
+                                {
+                                    "nameId": 1997,
+                                    "nameValue": "Functional Name",
+                                    "text": "Chicken Breast"
+                                },
+                                {
+                                    "nameId": 1998,
+                                    "nameValue": "Variant",
+                                    "text": "Diced"
+                                }
+                            ],
+                            "usageCount": [
+                                {
+                                    "nameId": 2017,
+                                    "nameValue": "Number of uses",
+                                    "lookupId": 39552,
+                                    "lookupValue": "Servings",
+                                    "text": "3"
+                                }
+                            ],
+                            "companyName": [
+                                "Shazan Foods Ltd."
+                            ],
+                            "companyAddress": "PO Box 176,\nPreston,\nLancashire,\nEngland,\nPR1 1GQ.",
+                            "usageOtherText": [
+                                "This pack contains approx. 3 servings"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
 }
