@@ -42,6 +42,40 @@
                 "description": "Fresh Chicken Portions"
             }
         ]
+    },
+    {
+        "description": "Shazans Diced Chicken Breast 900g",
+        "gtin": "5016901002734",
+        "subscriber": {
+            "id": 64558,
+            "code": "ASTO016"
+        },
+        "versionDateTime": "2017-08-30T08:46:16Z",
+        "targetMarkets": [
+            "GB",
+            "IE"
+        ],
+        "brandbankCode": "4771477",
+        "updateType": null,
+        "eu1169Compliance": "Unspecified",
+        "defaultLanguage": "en-GB",
+        "categories": [
+            {
+                "level": 1,
+                "code": "03",
+                "description": "Meat & Fish"
+            },
+            {
+                "level": 2,
+                "code": "14",
+                "description": "Chicken & Turkey"
+            },
+            {
+                "level": 3,
+                "code": "02",
+                "description": "Fresh Chicken Portions"
+            }
+        ]
     }
 ]
 }
